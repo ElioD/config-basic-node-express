@@ -1,0 +1,6 @@
+
+init tslint
+.\node_modules\.bin\tslint --init 
+
+typescript
+tsc --init  
